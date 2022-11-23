@@ -1,0 +1,16 @@
+sphinx
+numpy
+glob2
+pytest
+bokeh
+holoviews[all]
+hvplot
+flake8-nb
+flake8
+matplotlib
+jinja2==3.0.3
+torch
+torchvision
+scikit-image
+pytorch-msssim
+scikit-learn
